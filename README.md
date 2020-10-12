@@ -1,5 +1,5 @@
 # 《竞赛通》
-《竞赛通》官方仓库 https://github.com/LanGong-dev/NOIP
+《竞赛通》官方仓库 [https://github.com/LanGong-dev/NOIP](https://github.com/LanGong-dev/NOIP)
 
 希望能点个star
 
