@@ -13,7 +13,7 @@
 快速幂，欧拉phi，求逆元，CRT。
 Tr-eap还得FHQ，S-lay换根特别难。
 二叉树，平衡树，左偏树，线段树。
-树树皆靠生成树，建树方法容易忘。
+建树方法容易忘，树树皆靠生成树。
 </pre></center>
 
 # 介绍
@@ -24,3 +24,4 @@ Tr-eap还得FHQ，S-lay换根特别难。
 # Pull Request
 
 如果你有好的想法可以pull request更改本仓库，也可以issue我们。
+
