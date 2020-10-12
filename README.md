@@ -11,7 +11,7 @@
 打表暴力OLE，不知不觉UKE。
 不开LongLong见祖宗，科学数论还RE。
 快速幂，欧拉phi，求逆元，CRT。
-Tr-eap还得FHQ，S-lay换根特别难。
+Tr-eap还得FHQ，S-play换根特别难。
 二叉树，平衡树，左偏树，线段树。
 建树方法容易忘，树树皆靠生成树。
 </pre></center>
